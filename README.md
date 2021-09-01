@@ -1,3 +1,3 @@
-# truefolder.github.io
+# truefolder
 
-**thanks github for good place to host an app-ads.txt file!**
+**hi!**
